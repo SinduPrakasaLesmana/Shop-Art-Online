@@ -1,0 +1,64 @@
+.btn-primary{
+	background-color:green;
+	border-color:#6f19f9;	
+	}
+	.btn-primary:hover{
+        background-color:green;
+        border-color:#6f19f9;	
+    }
+    .fot1 {
+    background-image: url(img/shop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+.fot2 {
+    background-image: url(img/SAO1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+.fot3 {
+    background-image: url(img/Asuna.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+.fot4 {
+    background-image: url(img/SAO2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+.fot5 {
+    background-image: url(img/calling.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+.fot6 {
+    background-image: url(img/testi.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+.fot7 {
+    background-image: url(img/aboutus.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    }
+    h2{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    h2.konten{
+        color: black;
+    }
+.sub-title{
+        font-size: 20px;
+        font-weight: 600;
+        color: cyan;
+        line-height: 20px;
+      }
